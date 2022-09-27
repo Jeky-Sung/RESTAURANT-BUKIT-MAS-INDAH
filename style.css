@@ -161,6 +161,10 @@ header {
   width: 100%;
 }
 
+background {
+  width: 100%;
+}
+
 .sub-headline {
   color: var(--secondary-font-color);
   font-family: var(--secondary-font);
